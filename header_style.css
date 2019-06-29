@@ -1,0 +1,28 @@
+h1{
+  color:red;
+  background-color: orange;
+}
+
+h2{
+  color: white;
+  background-color: blue;
+  width:50%;
+  border: 2px solid gold;
+  border-radius: 5px;
+  padding-left: 40px;
+}
+
+h3{
+  color:rgb(25,125,125);
+  margin: 40px;
+}
+
+h4{
+  color: rgba(255, 0, 0, 0.5);
+  text-align: center;
+}
+
+h5,h6{
+  color:tomato;
+  text-decoration: underline;
+}

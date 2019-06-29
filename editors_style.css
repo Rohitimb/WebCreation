@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+}
+
+ul{
+  margin: 25px;
+  background-color: tomato;
+  list-style: circle;
+  border-radius: 4px;
+}
+li{
+  color: white;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}

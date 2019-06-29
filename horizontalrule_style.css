@@ -1,0 +1,15 @@
+hr{
+    width:5%;
+    border-top: 10px dotted green;
+    margin: 0 auto;
+}
+
+h3{
+  color: blue;
+  padding: 20px 20px 0px;
+}
+p{
+  color:orange;
+  padding: 20px;
+  line-height:1.5;
+}
